@@ -5,7 +5,7 @@ Living the dream
 ## Runs on file change
 
 ```shell
-cargo watch -x clippy -x check -x test -x run
+cargo watch -x check -x clippy -x test -x run
 ```
 
 ## Runs on push
