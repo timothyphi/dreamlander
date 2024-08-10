@@ -1,6 +1,6 @@
-# zero2Prod
+# dreamlander
 
-working through examples
+Living the dream
 
 ## Runs on file change
 
@@ -22,4 +22,3 @@ cargo fmt
 ```shell
 cargo audit
 ```
-# dreamlander
